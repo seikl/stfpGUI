@@ -6,11 +6,11 @@
  */
 class NiceSSH {
     // SSH Host
-    private $ssh_host = 'my.server.com';
+    private $ssh_host = 'mon.serveur.com';
     // SSH Port
     private $ssh_port = 22;
     // SSH Server Fingerprint
-    private $ssh_server_fp = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
+    private $ssh_server_fp = 'xxxx';
     // SSH Username
     private $ssh_auth_user = 'username';
     // SSH Public Key File
